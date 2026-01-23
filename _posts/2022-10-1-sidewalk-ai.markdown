@@ -7,6 +7,6 @@ venue: ASSETS 2022
 designation:
 arxiv: https://makeabilitylab.cs.washington.edu/media/publications/Duan_ScalingCrowdAiSidewalkAccessibilityAssessmentsInitialExperimentsExaminingLabelQualityAndCrossCityTrainingOnPerformance_ASSETS222022.pdf
 code: https://github.com/ProjectSidewalk/sidewalk-cv-2021
-image:
-categories: research
+image: images/post_images/crowd+ai.png
+categories: [research]
 ---

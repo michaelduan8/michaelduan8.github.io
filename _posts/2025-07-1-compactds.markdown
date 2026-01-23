@@ -7,6 +7,6 @@ venue: arXiv preprint
 designation: 
 arxiv: https://arxiv.org/abs/2507.01297
 code: https://huggingface.co/datasets/alrope/CompactDS-102GB
-image:
-categories: research
+image: images/post_images/compactds.png
+categories: [research]
 ---

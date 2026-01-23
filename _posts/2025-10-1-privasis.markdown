@@ -7,6 +7,6 @@ venue: arXiv preprint
 designation: 
 # arxiv: https://arxiv.org/abs/2506.10947
 # code: https://github.com/ruixin31/Spurious_Rewards
-image:
-categories: research
+image: images/post_images/privasis.png
+categories: [research]
 ---

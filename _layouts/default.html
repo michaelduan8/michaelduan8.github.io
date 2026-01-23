@@ -37,10 +37,13 @@
               <p>I am a PhD student at the University of Southern California, advised by <a href="https://www.seanre.com/">Xiang Ren</a>.
               </p>
               <p>
-                TODO: research interests in detail here.
+                My current research interests are AI safety and privacy, tracking data provenance in complex modern AI systems, and interesting ways to make data more accessible (e.g., non-parametric or collaborative learning)
               </p>
               <p>
-                Previously, I graduated with a a BS in CS from the <a href="https://www.cs.washington.edu/">University of Washington</a>, where I was fortunate to work with <a href="https://www.sewonmin.com/">Sewon Min</a>.
+                Previously, I graduated with a BS in CS from the <a href="https://www.cs.washington.edu/">University of Washington</a>, where I was fortunate to begin my research in NLP with the fantastic <a href="https://www.sewonmin.com/">Sewon Min</a> and <a href="https://mireshghallah.github.io/">Niloofar Mireshghallah</a>.
+              </p>
+              <p>
+                Before that, I had a wonderful start to research with <a href="https://jonfroehlich.github.io/">Jon Froehlich</a> at the <a href="https://makeabilitylab.cs.washington.edu/">Makeability Lab</a>, where I worked on vision-based techniques to identify sidewalk accessibility features/challenges.
               </p>
               <p style="text-align:center">
                 <a href="mailto:duanm@usc.edu">Email</a> &nbsp;/&nbsp;
@@ -50,7 +53,7 @@
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
-              <img style="width:100%;max-width:100%" alt="profile photo" src="images/circle_bw_crop.jpg">
+              <img style="width:100%;max-width:100%" alt="profile photo" src="images/micdun.png">
             </td>
           </tr>
         </table>
@@ -66,13 +69,12 @@
           </tr>
         </table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-
           {% for post in site.posts %}
           {% for cat in post.categories %}
           {% if cat == 'research' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+              <img src="/{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>

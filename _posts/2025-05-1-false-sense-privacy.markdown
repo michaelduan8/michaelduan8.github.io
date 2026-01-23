@@ -7,6 +7,6 @@ venue: NeurIPS Safe Generative AI Workshop
 designation: 
 arxiv: https://arxiv.org/abs/2504.21035
 code: https://github.com/ruixin31/false-sense-privacy
-image:
-categories: research
+image: images/post_images/false_sense.png
+categories: [research]
 ---

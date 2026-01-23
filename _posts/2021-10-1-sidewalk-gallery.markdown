@@ -7,6 +7,6 @@ venue: ASSETS 2021
 designation: Best Artifact Runner-up Award
 arxiv: https://makeabilitylab.cs.washington.edu/media/publications/Duan_SidewalkGalleryAnInteractiveFilterableImageGalleryOfOver500000SidewalkAccessibilityProblems_ASSETS2021.pdf
 code: 
-image:
-categories: research
+image: images/post_images/gallery.png
+categories: [research]
 ---
